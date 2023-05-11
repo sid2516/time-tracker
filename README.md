@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good Night Students, have sweet dream!!!
+Bye, Good Night Students, have sweet dream!!!
